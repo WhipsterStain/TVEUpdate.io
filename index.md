@@ -1,4 +1,3 @@
-## True Vanilla Experiment Photos
 
 <h2>TVE SPAWN PHOTO ARCHIVE</h2>
 <p><a href="https://whipsterstain.github.io/TVEUpdate.io/date1.md">16 June 2022</a></p>
