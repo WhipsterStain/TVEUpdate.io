@@ -1,4 +1,4 @@
 # TVEUpdate.io
-TVE Photos Archive
-by WhipsterStain
+TVE Photo Archive
+by WhipsterStain ☠
 16 june 2022
