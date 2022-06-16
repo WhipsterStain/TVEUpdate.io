@@ -13,8 +13,3 @@
 <p><a href="https://www.google.com/">dd/mm/yy</a></p>
 <p><a href="https://www.google.com/">dd/mm/yy</a></p>
 
-<a href="https://www.google.com/">Google Search</a>
-<a href="https://www.tutorialrepublic.com/">Tutorial Republic</a>
-<a href="images/kites.jpg">
-    <img src="kites-thumb.jpg" alt="kites">
-</a>
